@@ -1,2 +1,2 @@
 deploy:
-	touch /tmp/yolotralala
+	touch "$(DEPLOY_DIR)/super"
