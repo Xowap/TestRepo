@@ -1,0 +1,3 @@
+[submodule "atari-ai"]
+	path = atari-ai
+	url = https://github.com/Stitchpunk/atari-ai.git
